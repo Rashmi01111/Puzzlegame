@@ -1,0 +1,54 @@
+.pooja{
+background-color: black;
+height: 40px;
+text-align: end;
+
+
+}
+a{
+       text-decoration: none;
+margin-top: 20px;
+    color: whitesmoke;
+ margin-right: 20px;
+
+
+
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+  margin-top: 20px;
+    display: inline;
+margin-left: 20px;
+}
+body{
+    background-image: url('https://thumbs.dreamstime.com/b/pocket-sliding-puzzle-fifteen-chips-dark-background-238059591.jpg');
+    background-color: antiquewhite;
+}
+.hello{
+    background-color: rgb(195, 55, 55);
+    width: 300px;
+    height: 80px;
+    font-size: 50px;
+    margin:30px auto;
+    border-radius: 100px;
+text-align: center;
+
+
+}
+.hello::after{
+    content: "\1F512";
+}
+.child{
+    margin-top: 150px;
+}
+.ho{
+text-align: center;
+font-size: 80px;
+color: aliceblue;
+text-shadow: 5px 5px 6px black;
+margin-top: 40px;
+}
+

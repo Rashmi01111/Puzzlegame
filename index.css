@@ -1,0 +1,183 @@
+/* #child{
+    height: 70px;
+    width: 200px;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 50px;
+    border-radius: 100px ;
+    margin-left: 600px;
+
+
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+/* puzzle.css */
+
+/* Apply basic styling to the body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the navigation */
+nav {
+  
+    color: white;
+    padding: 10px;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+/* Change color on hover for navigation items */
+nav li:hover {
+    color: #ffd700; /* Change to your desired hover color */
+}
+
+/* Style the container */
+.container {
+    text-align: center;
+    margin: 20px;
+}
+
+/* Style the heading */
+h1 {
+    color: #333;
+}
+
+/* Style the "Play" link */
+.my {
+    text-align: center;
+    margin: 20px;
+}
+
+/* #child {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #007bff; 
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+} */
+
+/* Change background color on hover for the "Play" link */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url('https://images.unsplash.com/photo-1553095066-5014bc7b7f2d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2FsbCUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D');
+}
+
+.my{
+    height: 70px;
+    width: 200px;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 50px;
+    border-radius: 100px ;
+    margin-left: 600px;
+    margin-top: 300px;
+
+}
+#child{
+    text-decoration: none;
+    color:rgba(69, 48, 206, 0.83);
+    font-size: 50px;
+    text-shadow: 3px 4px 5px black;
+}
+.my:hover{
+    background-color: orangered;
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+    color:darkred;
+}
+nav{
+    font-size: 50px;
+   color:whitesmoke;
+   text-transform: capitalize;
+text-align: end;
+
+}
+h1:hover{
+    text-shadow:60px;
+}
+.container{
+    text-shadow: 3px 4px 5px black;
+    border-radius: 80px;
+background-color:whitesmoke ;
+width: 800px;
+margin: 30px auto;
+
+}
+nav>li{
+    display:inline;
+    margin-right: 50px;
+    font-size: 30px;
+text-decoration: none;
+
+}
+.hello{
+    float: right;
+    padding: 20px;
+    color: white;
+    background-color: orange;
+    margin-top:50px;
+    border-radius: 10%;
+    height: 20px;
+    width: 150px;
+    }
+
+  
+    
